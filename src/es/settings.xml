@@ -3,7 +3,7 @@
 <settings>
   <profiles>
     <profile>
-      <id>it-repo</id>
+      <id>es-repo</id>
       <activation>
         <activeByDefault>true</activeByDefault>
       </activation>
